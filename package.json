@@ -1,0 +1,19 @@
+{
+  "name": "tugas_sesi3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shifaptri25/tugas_pemograman.git"
+  },
+  "author": "Shifa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shifaptri25/tugas_pemograman/issues"
+  },
+  "homepage": "https://github.com/shifaptri25/tugas_pemograman#readme"
+}
